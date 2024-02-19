@@ -1,5 +1,5 @@
 ### Udacity - Azure Data Engineering - Azure Databricks
-The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture. You will:
+The goal of this project is to develop a data lake solution using Azure Databricks using a lake house architecture.
 
 
 Scripts
